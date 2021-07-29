@@ -32,6 +32,12 @@ pip install --upgrade podcast-api
 
 The program has a CLI which asks for explicit user input.  You can then copy/paste from the output what you're interested in.
 
+Start it with 
+
+```bash
+python3 app.py
+```
+
 ## Support
 
 Not guaranteed!  Message me on LinkedIn.  But the projects on this Github are pretty much done on random whims, so I may not have any interest in supporting them if something else has hit the top of my mental queue.
